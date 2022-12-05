@@ -1,4 +1,4 @@
-# Task-6
+# Task-6 (Machine learning)
 
 Assignment-8 Car price predictor
 
